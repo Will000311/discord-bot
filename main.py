@@ -36,4 +36,4 @@ async def choose(ctx, *choices: str):
     """Chooses between multiple choices."""
     await ctx.send(random.choice(choices))
 
-bot.run("MTM0Njk2MDQ2Njc3NzIxMDg5MA.GcH5bJ.JDeIR5pujCAJQXTUXOImIBDzvw0r-Dh09vCI0Y")
+bot.run("")
